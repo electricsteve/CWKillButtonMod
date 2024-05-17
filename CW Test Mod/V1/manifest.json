@@ -1,0 +1,11 @@
+﻿{
+  "namespace": "ElectricSteve",
+  "name": "Kill_Button",
+  "description": "Adds a button to kill yourself.",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "Hamunii-AutoHookGenPatcher-1.0.4",
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": ""
+}

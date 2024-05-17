@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fa20ccf-ee85-4814-8231-1cc81d62a16e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CW Test Mod/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CW Test Mod/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CW Test Mod/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CW Test Mod/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CW Test Mod/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CW Test Mod/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/CW Test Mod.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/CW Test Mod.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/CW Test Mod.template.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/CW_Test_Mod.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/Hooks/ExampleShoppingCartPatch.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/Hooks/GlobalInputHandlerPatch.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/Keybinds/KillKeybindSetting.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CW Test Mod/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/3aa4e992bfac406eb997516c43881f48125400/4b/9505cab6/020001F4.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/3aa4e992bfac406eb997516c43881f48125400/f6/f888e0ca/020000F5.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/02684ddb3c7f42f18eba0af8d067335e323800/5b/fc939503/SettingsHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/02684ddb3c7f42f18eba0af8d067335e323800/5e/9610c33d/DropKeybindSetting.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/02684ddb3c7f42f18eba0af8d067335e323800/6e/efd66061/DropKeybindSetting.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/379a1f16e2cd4548a10a7d72568b1373adc00/5d/b6579a19/TreeViewReorderableDragAndDropController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/30/dfdcc0cb/GameLoopHax.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/31/bc6bbd0c/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/32/abc03cc7/DiveBellTransitionSound.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/3d/bbe8c850/ShadowRealmHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/54/f02b58b2/GlobalInputHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/66/c4cb8faa/KeybinderHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/6e/e0ff1aae/SettingsHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/c1/cd91a61c/DropKeybindSetting.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/d0/23a26ad8/TransitionHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/d6/c66c45ff/DivingBell.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/e0/f109f165/GameHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/e3/aeb23070/Bot_Angler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/e7/7e2c4881/PhotonGameLobbyHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/e8/5be24c36/SurfaceNetworkHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/f1/54aca4a8/Bot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/f1/572c0386/StartGameDoorInteractable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3aa4e992bfac406eb997516c43881f48125400/fc/4a2b8d07/ArtifactRadio.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7b177cac1e674b3fa76c4dd8c9a492b715a00/8d/e5104e93/RetrievableResourceSingleton`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8f9937d2bcbe452aa37cfa260bbb2e2c126200/65/fc8cffdb/MonsterSpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8f9937d2bcbe452aa37cfa260bbb2e2c126200/9d/d18ffb3f/TransitionHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8f9937d2bcbe452aa37cfa260bbb2e2c126200/af/7e2be7e7/PlayerRagdoll.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b0284f5335cd471eb28c9ea6579669b1101400/01/3f491c83/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gNmLsHW7tcK14Tvt5xqnMJPJ9o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.build.unityPlugin",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\elect\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\elect\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\elect\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fa20ccf-ee85-4814-8231-1cc81d62a16e" name="Changes" comment="" />
+      <created>1715546357451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715546357451</updated>
+      <workItem from="1715546359096" duration="1899000" />
+      <workItem from="1715548393817" duration="4809000" />
+      <workItem from="1715617668361" duration="15393000" />
+      <workItem from="1715705380683" duration="4923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

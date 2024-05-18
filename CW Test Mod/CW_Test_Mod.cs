@@ -32,7 +32,6 @@ public class CW_Test_Mod : BaseUnityPlugin
     {
         Logger.LogDebug("Hooking...");
 
-        ExampleShoppingCartPatch.Init();
         GlobalInputHandlerPatch.init();
 
         Logger.LogDebug("Finished Hooking!");

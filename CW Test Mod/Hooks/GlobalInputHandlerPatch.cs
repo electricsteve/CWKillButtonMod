@@ -18,7 +18,7 @@ public class GlobalInputHandlerPatch
 
     private static void PhotonGameLobbyHandlerOnCheckForAllDead(On.PhotonGameLobbyHandler.orig_CheckForAllDead orig, PhotonGameLobbyHandler self)
     {
-        if (CW_Test_Mod.JustKilledPlayer)
+        if (CW_Test_Mod.JustKilledPlayer & PhotonGameLobbyHandler.IsSurface)
         {
             CW_Test_Mod.Logger.LogDebug("Player just killed, returning");
             CW_Test_Mod.JustKilledPlayer = false;
